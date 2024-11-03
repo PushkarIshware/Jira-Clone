@@ -60,8 +60,6 @@ Sequence of APIs are as follows:
 ### Finally
 #### You can access all subsequent APIs.
 
-#### Postman Collection: https://api.postman.com/collections/6456685-343050d2-79e0-41b6-9c1a-be7ef7c1e55d?access_key=PMAT-01JATRNGBR2QR6PPH0PAS9659C
-
 ##### How to import above collection in Postman: 
 1. Copy above URL.
 
