@@ -61,6 +61,7 @@ Sequence of APIs are as follows:
 #### You can access all subsequent APIs.
 
 ##### How to import above collection in Postman: 
+
 1. Copy above URL.
 
 2. Open Postman Application.

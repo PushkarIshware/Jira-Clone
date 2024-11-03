@@ -25,4 +25,4 @@ PASSWORD: admin
 
 # =============================================
 
-postman collection link
+postman collection link: None
