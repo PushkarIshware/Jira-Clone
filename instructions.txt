@@ -1,0 +1,30 @@
+how to create super user.
+
+after docker-compose build and docker-composr up
+
+>>> docker ps
+    either copy NAME/CONTAINER ID of running CONTAINER
+
+>>> docker exec -it <NAME/CONTAINER ID> python manage.py createsuperuser
+    
+    Enter USERNAME: admin
+    Enter EMAIL: admin@admin.com
+    Enter PASSWORD: admin
+    Enter PASSWORD (AGAIN): admin
+    Press Y/y: y
+    Press ENTER
+
+# ============================================
+
+To access Admin Panel
+
+URL: http://127.0.0.1:8000/admin
+
+USERNAME: admin
+PASSWORD: admin
+
+# =============================================
+
+postman collection link
+
+# https://api.postman.com/collections/6456685-343050d2-79e0-41b6-9c1a-be7ef7c1e55d?access_key=PMAT-01JATRNGBR2QR6PPH0PAS9659C
